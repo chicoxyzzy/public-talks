@@ -1,6 +1,7 @@
-# TC39 Process talk at MoscowJS 23 (Moscow) #
+# TC39 Process talk
+## MoscowJS 23 (Moscow, Russia, June 25, 2015)
 
-My public talk about TC39 Process at MoscowJS 23 at Rambler (Moscow, June 25, 2015).
+My public talk about TC39 Process at [MoscowJS 23](http://www.moscowjs.ru/events/moscowjs-23.html) at Rambler (Moscow, June 25, 2015).
 
 Video on YouTube
 

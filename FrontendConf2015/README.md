@@ -1,6 +1,7 @@
-# Tomorrow's JavaScript talk at FrontendConf 2015 (Moscow) #
+# Tomorrow's JavaScript
+## FrontendConf 2015 (Moscow, Russia. May 22, 2015)
 
-This is my first public talk about past and future of JavaScript at Crocus Expo (Moscow, May 22, 2015).
+This is my first public talk about past and future of JavaScript at [FrontendConf 2015](http://frontendconf.ru/) at Crocus Expo (Moscow, May 22, 2015).
 
 Slides in Russian
 
