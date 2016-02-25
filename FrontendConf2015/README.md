@@ -5,5 +5,6 @@ This is my first public talk about past and future of JavaScript at [FrontendCon
 
 Slides in Russian
 
+- [on FrontendConf website](http://frontendconf.ru/2015/abstracts/1722)
 - [on SlideShare](http://www.slideshare.net/SergeyRubanov/javascript-48352266)
 - [on GitHub](tomorrow_JS.pdf)
