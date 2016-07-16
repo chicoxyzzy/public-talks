@@ -4,6 +4,7 @@
 My public talk at [OdessaJS 2016](http://odessajs.org)
 
 Video
+
 [![What's wrong with Web](http://img.youtube.com/vi/qUxpEeI5vw8/0.jpg)](https://www.youtube.com/watch?v=qUxpEeI5vw8)
 
 Slides
