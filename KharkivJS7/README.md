@@ -10,4 +10,4 @@ Video on YouTube
 Slides in russian
 
 - [on my GitHub page as HTML](http://chicoxyzzy.github.io/talks/es201x_and_web_apis/index.html)
-- [on slideshare as PDF](http://www.slideshare.net/SergeyRubanov/webassembly)
+- [on slideshare as PDF](http://www.slideshare.net/SergeyRubanov/moving-web-forward-part-i-ecmascript-201x)
