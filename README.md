@@ -4,6 +4,7 @@ Conferences and meetups:
 - ["WebAssembly: new era of Web" - KharkivJS #5: Serious JS](KharkivJS5/) Kharkiv, Ukraine, November 7, 2015
 - ["What's wrong with Web and how to live with it" - OdessaJS 2016](OdessaJS2016/) Odessa, Ukraine, July 2, 2016
 - ["Moving Web forward: Part I — ECMAScript 201x" - KharkivJS #7](KharkivJS7/) Kharkiv, Ukraine, November 5-6, 2016
+- ["Real-world WebAssembly" - OdessaJS 2017](OdessaJS2017/) Odessa, Ukraine, July 1-2, 2017
 
 Podcasts:
 - [RadioJS Podcast Episode 45](https://radiojs.ru/2016/12/radiojs-45/) Moscow, Russia, December 31, 2016
