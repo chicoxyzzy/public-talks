@@ -5,7 +5,7 @@ My public talk about TC39 Process at [MoscowJS 23](http://www.moscowjs.ru/events
 
 Video on YouTube
 
-[![TC39 Process talk at MoscowJS 23](http://img.youtube.com/vi/5HNrQJsv4gU/0.jpg)](http://www.youtube.com/watch?v=5HNrQJsv4gU)
+[![TC39 Process talk at MoscowJS 23](https://img.youtube.com/vi/5HNrQJsv4gU/0.jpg)](https://www.youtube.com/watch?v=5HNrQJsv4gU)
 
 Slides in Russian
 

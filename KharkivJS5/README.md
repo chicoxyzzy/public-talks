@@ -5,7 +5,7 @@ My first public talk in Ukraine at [KharkivJS #5](http://kharkivjs.org/) at Fabr
 
 Video on YouTube
 
-[![KharkivJS #5 2015 — Sergey Rubanov — WebAssembly](http://img.youtube.com/vi/eWF_1nMM5Yo/0.jpg)](http://www.youtube.com/watch?v=eWF_1nMM5Yo)
+[![KharkivJS #5 2015 — Sergey Rubanov — WebAssembly](https://img.youtube.com/vi/eWF_1nMM5Yo/0.jpg)](https://www.youtube.com/watch?v=eWF_1nMM5Yo)
 
 Slides in russian
 

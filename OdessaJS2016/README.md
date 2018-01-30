@@ -5,7 +5,7 @@ My public talk at [OdessaJS 2016](http://odessajs.org)
 
 Video
 
-[![What's wrong with Web](http://img.youtube.com/vi/qUxpEeI5vw8/0.jpg)](https://www.youtube.com/watch?v=qUxpEeI5vw8)
+[![What's wrong with Web](https://img.youtube.com/vi/qUxpEeI5vw8/0.jpg)](https://www.youtube.com/watch?v=qUxpEeI5vw8)
 
 Slides
  - [HTML version](https://chicoxyzzy.github.io/talks/whats_wrong_with_web)
