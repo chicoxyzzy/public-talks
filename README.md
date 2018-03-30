@@ -11,3 +11,4 @@ Podcasts:
 - [RadioJS Podcast Episode 49](https://radiojs.ru/2017/08/radiojs-49/) Moscow, Russia, August 23, 2017
 - [Frontend Weekend Episode 16](https://soundcloud.com/frontend-weekend/fw-16) Moscow, Russia, August 27, 2017
 - [Drinkcast Episode 23](https://spb-frontend.ru/podcast/23/) Saint-Petersburg, Russia, December 29, 2017
+- [RadioJS Podcast Episode 51](https://radiojs.ru/2018/02/radiojs-51/) Moscow, Russia, February 21, 2018
