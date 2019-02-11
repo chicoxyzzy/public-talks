@@ -8,6 +8,7 @@ Conferences and meetups:
 - ["Future of the Web" - JSNN #9](https://youtu.be/ZtJZ2qDjee4), Nizhny Novgorod, Russia, March 3, 2018
 - ["Understanding WebAssembly" - CodeFest 2018](https://2018.codefest.ru/lecture/1324/), Novosibirsk, Russia, March 31, 2018
 - "Understanding WebAssembly" - ChernivtsiJS 2018, Chernivtsi, Ukraine, June 23, 2018
+- "JavaScript" - BeerJS Summit 2018, Minsk, Belarus, June 30, 2018
 - ["WebAssembly and the outer world" - MoscowJS 43](https://www.moscowjs.ru/talk/webassembly-i-vneshniy-mir), Moscow, Russia, November 22, 2018
 
 Podcasts:
