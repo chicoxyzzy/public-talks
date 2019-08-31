@@ -10,6 +10,9 @@ Conferences and meetups:
 - "Understanding WebAssembly" - ChernivtsiJS 2018, Chernivtsi, Ukraine, June 23, 2018
 - "JavaScript" - BeerJS Summit 2018, Minsk, Belarus, June 30, 2018
 - ["WebAssembly and the outer world" - MoscowJS 43](https://www.moscowjs.ru/talk/webassembly-i-vneshniy-mir), Moscow, Russia, November 22, 2018
+- ["TC39: Structure and Process"](https://www.youtube.com/watch?v=_0psqory6rk), Saint-Petersburg, Russia, July 13, 2019
+- "Self-Development Tips for Punks" - BeerJS Summit 2019, Minsk, Belarus, July 20, 2019
+- "WebAssembly for Everybody" - Orel Codes Meetup, Oryol, Russia, July 26, 2019
 
 Podcasts:
 - [RadioJS Podcast Episode 45](https://radiojs.ru/2016/12/radiojs-45/), Moscow, Russia, December 31, 2016
@@ -19,4 +22,6 @@ Podcasts:
 - [RadioJS Podcast Episode 51](https://radiojs.ru/2018/02/radiojs-51/), Moscow, Russia, February 21, 2018
 - [RadioJS Podcast Episode 53](https://radiojs.ru/2017/08/radiojs-53/), Moscow, Russia, October 23, 2018
 - [RadioJS Podcast Episode 54](https://radiojs.ru/2017/08/radiojs-54/), Moscow, Russia, December 20, 2018
-- [Web Standards Podcast Episode 159](https://www.youtube.com/watch?v=nBNDK32CS_8&t=3s), Saint-Petersburg, Russia, February 4, 2019 
+- [Web Standards Podcast Episode 159](https://www.youtube.com/watch?v=nBNDK32CS_8), Saint-Petersburg, Russia, February 4, 2019
+- [FrontSexy](https://soundcloud.com/begebot/ep23), Kyiv, Ukraine, August 21, 2019
+- [Web Standards Podcast Episode 190](https://www.youtube.com/watch?v=wI0UDPZ3mCo), Saint-Petersburg, Russia, August 28, 2019
