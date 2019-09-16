@@ -13,6 +13,7 @@ Conferences and meetups:
 - ["TC39: Structure and Process"](https://www.youtube.com/watch?v=_0psqory6rk), Saint-Petersburg, Russia, July 13, 2019
 - "Self-Development Tips for Punks" - BeerJS Summit 2019, Minsk, Belarus, July 20, 2019
 - "WebAssembly for Everybody" - Orel Codes Meetup, Oryol, Russia, July 26, 2019
+- "TC39: Structure and Process" - WebPurple meetup, Ryazan, Russia, September 14, 2019
 
 Podcasts:
 - [RadioJS Podcast Episode 45](https://radiojs.ru/2016/12/radiojs-45/), Moscow, Russia, December 31, 2016
