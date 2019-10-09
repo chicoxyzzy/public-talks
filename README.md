@@ -15,6 +15,9 @@ Conferences and meetups:
 - "WebAssembly for Everybody" - Orel Codes Meetup, Oryol, Russia, July 26, 2019
 - "TC39: Structure and Process" - WebPurple meetup, Ryazan, Russia, September 14, 2019
 
+Video blogs:
+- [FrontSpot Show #12](https://www.youtube.com/watch?v=4mSv4I3_Phg), Minsk, Belarus, September 27, 2019
+
 Podcasts:
 - [RadioJS Podcast Episode 45](https://radiojs.ru/2016/12/radiojs-45/), Moscow, Russia, December 31, 2016
 - [RadioJS Podcast Episode 49](https://radiojs.ru/2017/08/radiojs-49/), Moscow, Russia, August 23, 2017
