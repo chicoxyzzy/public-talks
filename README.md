@@ -12,7 +12,7 @@ Conferences and meetups:
 - ["WebAssembly and the outer world" - MoscowJS 43](https://www.moscowjs.ru/talk/webassembly-i-vneshniy-mir), Moscow, Russia, November 22, 2018
 - ["TC39: Structure and Process"](https://www.youtube.com/watch?v=_0psqory6rk) - Web Standards Days, Saint-Petersburg, Russia, July 13, 2019
 - "Self-Development Tips for Punks" - BeerJS Summit 2019, Minsk, Belarus, July 20, 2019
-- "WebAssembly for Everybody" - Orel Codes Meetup, Oryol, Russia, July 26, 2019
+- ["WebAssembly for Everybody"](https://www.youtube.com/watch?v=rHv8MOcBkCQ) - Orel Codes Meetup, Oryol, Russia, July 26, 2019
 - "TC39: Structure and Process" - WebPurple meetup, Ryazan, Russia, September 14, 2019
 
 Video blogs:
