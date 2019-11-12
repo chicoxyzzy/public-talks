@@ -14,6 +14,7 @@ Conferences and meetups:
 - "Self-Development Tips for Punks" - BeerJS Summit 2019, Minsk, Belarus, July 20, 2019
 - ["WebAssembly for Everybody"](https://www.youtube.com/watch?v=rHv8MOcBkCQ) - Orel Codes Meetup, Oryol, Russia, July 26, 2019
 - "TC39: Structure and Process" - WebPurple meetup, Ryazan, Russia, September 14, 2019
+- "TC39 panel" - HolyJS, Moscow, Russia, November 9, 2019
 
 Video blogs:
 - [FrontSpot Show #12](https://www.youtube.com/watch?v=4mSv4I3_Phg), Minsk, Belarus, September 27, 2019
