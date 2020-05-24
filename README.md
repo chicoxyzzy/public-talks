@@ -21,6 +21,8 @@ Video blogs:
 - [FrontSpot Show #12](https://www.youtube.com/watch?v=4mSv4I3_Phg), Minsk, Belarus, September 27, 2019
 
 Podcasts:
+
+- [Web Standards Podcast Episode 226](https://www.youtube.com/watch?v=o2kwrOcesj8), April 21, 2020
 - [Web Standards Podcast Episode 190](https://www.youtube.com/watch?v=wI0UDPZ3mCo), Saint-Petersburg, Russia, August 28, 2019
 - [FrontSexy](https://soundcloud.com/begebot/ep23), Kyiv, Ukraine, August 21, 2019
 - [Web Standards Podcast Episode 159](https://www.youtube.com/watch?v=nBNDK32CS_8), Saint-Petersburg, Russia, February 4, 2019
