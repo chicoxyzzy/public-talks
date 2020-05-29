@@ -16,12 +16,10 @@ Conferences and meetups:
 - ["TC39 Process" - MoscowJS 23](MoscowJS23/), Moscow, Russia, June 25, 2015
 - ["Tomorrow's JavaScript" - FrontendConf 2015](FrontendConf2015/), Moscow, Russia May 21, 2015
 
-
 Video blogs:
 - [FrontSpot Show #12](https://www.youtube.com/watch?v=4mSv4I3_Phg), Minsk, Belarus, September 27, 2019
 
 Podcasts:
-
 - [Podlodka Podcast #165](https://podlodka.io/165?fbclid=IwAR3hRZ0IccunaBS9V9hc1wI884H51oMxwxyVFwBCK1nEo04WihZEzvSK3ns), May 25, 2020
 - [Web Standards Podcast Episode 226](https://www.youtube.com/watch?v=o2kwrOcesj8), April 21, 2020
 - [Web Standards Podcast Episode 190](https://www.youtube.com/watch?v=wI0UDPZ3mCo), Saint-Petersburg, Russia, August 28, 2019
@@ -34,3 +32,6 @@ Podcasts:
 - [Frontend Weekend Episode 16](https://soundcloud.com/frontend-weekend/fw-16), Moscow, Russia, August 27, 2017
 - [RadioJS Podcast Episode 49](https://radiojs.ru/2017/08/radiojs-49/), Moscow, Russia, August 23, 2017
 - [RadioJS Podcast Episode 45](https://radiojs.ru/2016/12/radiojs-45/), Moscow, Russia, December 31, 2016
+
+Articles:
+- [Стоит ли учить JavaScript: перспективы, ситуация на рынке труда, мнения экспертов](https://ru.hexlet.io/blog/posts/stoit-li-uchit-javascript-perspektivy-situatsiya-na-rynke-truda-mneniya-ekspertov), July 26, 2019
