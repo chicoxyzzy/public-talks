@@ -1,6 +1,6 @@
 Conferences and meetups:
-- "TC39 Q&A session" - RndTech Conf 2021, September 4, 2021
-- "WebAssembly Q&A session" - RndTech Conf 2020, September 12, 2020
+- "TC39 Q&A session" - RndTech Conf 2021, Rostov-on-Don, September 4, 2021
+- "WebAssembly Q&A session" - RndTech Conf 2020, Rostov-on-Don, September 12, 2020
 - "TC39 panel" - HolyJS, Moscow, Russia, November 9, 2019
 - "TC39: Structure and Process" - WebPurple meetup, Ryazan, Russia, September 14, 2019
 - ["WebAssembly for Everybody"](https://www.youtube.com/watch?v=rHv8MOcBkCQ) - Orel Codes Meetup, Oryol, Russia, July 26, 2019
@@ -19,6 +19,7 @@ Conferences and meetups:
 - ["Tomorrow's JavaScript" - FrontendConf 2015](FrontendConf2015/), Moscow, Russia May 21, 2015
 
 Video blogs:
+- [Подкаст на полях — Сергей Рубанов](https://www.youtube.com/watch?v=t_UG2tUdw7k), Rostov-on-Don, September 4, 2021
 - [FrontSpot Show #12](https://www.youtube.com/watch?v=4mSv4I3_Phg), Minsk, Belarus, September 27, 2019
 
 Podcasts:
