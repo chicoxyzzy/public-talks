@@ -1,4 +1,6 @@
 Conferences and meetups:
+- "TC39 Q&A session" - RndTech Conf 2021, September 4, 2021
+- "WebAssembly Q&A session" - RndTech Conf 2020, September 12, 2020
 - "TC39 panel" - HolyJS, Moscow, Russia, November 9, 2019
 - "TC39: Structure and Process" - WebPurple meetup, Ryazan, Russia, September 14, 2019
 - ["WebAssembly for Everybody"](https://www.youtube.com/watch?v=rHv8MOcBkCQ) - Orel Codes Meetup, Oryol, Russia, July 26, 2019
@@ -20,6 +22,7 @@ Video blogs:
 - [FrontSpot Show #12](https://www.youtube.com/watch?v=4mSv4I3_Phg), Minsk, Belarus, September 27, 2019
 
 Podcasts:
+- [Запуск Завтра++](https://podcasts.apple.com/ru/podcast/%D0%B7%D0%B0%D0%BF%D1%83%D1%81%D0%BA-javascript-%D0%BF%D1%80%D0%B8%D0%B4%D1%83%D0%BC%D0%B0%D0%BB%D0%B8-%D0%B7%D0%B0-10-%D0%B4%D0%BD%D0%B5%D0%B9-%D0%B0-%D0%BE%D0%BD-%D0%B7%D0%B0%D1%85%D0%B2%D0%B0%D1%82%D0%B8%D0%BB/id1488945593?i=1000534201890&l=en), Moscow, September 3, 2021
 - [Фронтенд Юность №150](https://soundcloud.com/frontend_u/e159), Saint-Petersburg, Russia, October 1, 2020
 - [Podlodka Podcast #165](https://podlodka.io/165?fbclid=IwAR3hRZ0IccunaBS9V9hc1wI884H51oMxwxyVFwBCK1nEo04WihZEzvSK3ns), May 25, 2020
 - [Web Standards Podcast Episode 226](https://www.youtube.com/watch?v=o2kwrOcesj8), April 21, 2020
